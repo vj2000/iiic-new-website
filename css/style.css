@@ -249,6 +249,9 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   font-size: 19px;
   font-weight: 300;
+  color:white;
+  font-weight:bold;
+  font-size:21px;
 }
 #fh5co-header #navbar li a span {
   position: relative;
@@ -1406,6 +1409,29 @@ h1, h2, h3, h4, h5, h6 {
   animation-duration: .3s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
+}
+
+#Main-logo {
+  width: 270px;
+  height: 70px;
+  position:absolute;
+  top:10px;
+  left:10px;
+}
+
+.scroll-logo{
+  display:none;
+}
+.change1{
+display:none;
+}
+.change{
+
+  display:block;
+  font-size:30px;
+  font-weight: bold;
+  margin-top:5px;
+  color:#4997DF;
 }
 
 /*# sourceMappingURL=style.css.map */
