@@ -434,7 +434,30 @@
 	};
 
 
-	
+			$(window).scroll(function() {
+	    var scroll = $(window).scrollTop();
+	     //console.log(scroll);
+	    if (scroll >= 200) {
+	        //console.log('a');
+	        $(".main-logo").addClass("change1");
+	    } else {
+	        //console.log('a');
+	        $(".main-logo").removeClass("change1");
+	    }
+	});
+
+	$(window).scroll(function() {
+	    var scroll = $(window).scrollTop();
+	     //console.log(scroll);
+	    if (scroll >= 500) {
+	        //console.log('a');
+	        $(".scroll-logo").addClass("change");
+	    } else {
+	        //console.log('a');
+	        $(".scroll-logo").removeClass("change");
+	    }
+	});
+
 	
 
 
@@ -469,6 +492,7 @@
 		
 
 	});
+	
 
 
 }());
