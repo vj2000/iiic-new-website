@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -325,6 +325,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+
 }
 #fh5co-header.navbar-fixed-top #navbar li a:hover {
   color: #52d3aa;
@@ -1432,6 +1433,11 @@ display:none;
   font-weight: bold;
   margin-top:5px;
   color:#4997DF;
+}
+#menumy{
+
+font-weight:bold;
+font-size:25px;
 }
 
 /*# sourceMappingURL=style.css.map */
