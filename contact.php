@@ -1,71 +1,7 @@
  <?php require("header.php"); ?>
 
- <head>
-      
-	<section id="home" class="home-cover">
-    <div class="cover_slider owl-carousel owl-theme">
-        <div class="cover_item" style="background: url('assets/img/bg/iiita3.jpg');">
-             <div class="slider_content">
-                <div class="slider-content-inner">
-                    <div class="container">
-                        <div class="slider-content-center">
-                            <h2 class="cover-title">
-                                iiita
-                            </h2>
-                            <strong class="cover-xl-text">Info communication <br> incubation center</strong>
-                            <!-- <p class="cover-date">
-                                12-14 February 2018  - Los Angeles, CA.
-                            </p> -->
-                            <!-- <a href="#" class=" btn btn-primary btn-rounded" >
-                                Buy Tickets Now
-                            </a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="cover_item" style="background: url('assets/img/bg/iiita1.jpg');">
-            <div class="slider_content">
-                <div class="slider-content-inner">
-                    <div class="container">
-                        <div class="slider-content-left">
-                            <h2 class="cover-title">
-                                Fostering
-                            </h2>
-                            <strong class="cover-xl-text">entrepreneurship</strong>
-                            <!-- <p class="cover-date">
-                                12-14 February 2018  - Los Angeles, CA.
-                            </p>
-                            <a href="#" class=" btn btn-primary btn-rounded" >
-                                Buy Tickets Now
-                            </a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="cover_item" style="background: url('assets/img/bg/iiita2.jpg');">
-            <div class="slider_content">
-                <div class="slider-content-inner">
-                    <div class="container">
-                        <div class="slider-content-center">
-                            <h2 class="cover-title">
-                              got an idea?
-                            </h2>
-                            <strong class="cover-xl-text" style="font-size: 48px;">convert it into a <br> product!</strong>
-                            <!-- <p class="cover-date">
-                                12-14 February 2018  - Los Angeles, CA.
-                            </p>
-                            <a href="#" class=" btn btn-primary btn-rounded" >
-                                Buy Tickets Now
-                            </a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
+                  
         
        <section id="fh5co-contact" data-section="contact">
 		<div class="container">
