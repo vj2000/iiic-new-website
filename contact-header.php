@@ -185,7 +185,7 @@
 	</style>
 	<!-- End demo purposes only -->
 	<header role="banner" id="fh5co-header" class="navbar-fixed-top fh5co-animated slideInDown">
-		<img src="images/white_iiic.png" id="Main-logo" class="main-logo"style="position:absolute; top:0px; left:38px;">
+
 			<div class="container" class="class="navbar-fixed-top fh5co-animated slideInDown"">
 				<!-- <div class="row"> -->
 			    <nav class="navbar navbar-default">
