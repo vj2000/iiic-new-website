@@ -184,13 +184,63 @@
 	}
 	</style>
 	<!-- End demo purposes only -->
+	<header role="banner" id="fh5co-header">
+		<img src="images/white_iiic.png" id="Main-logo" class="main-logo"style="position:absolute; top:0px; left:38px;">
+			<div class="container">
+				<!-- <div class="row"> -->
+			    <nav class="navbar navbar-default">
+		        <div class="navbar-header">
+		        	<!-- Mobile Toggle Menu Button -->
+					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+		            <span class="scroll-logo" > IIIC - IIITA</span>
+		        </div>
+		        <div id="navbar" class="navbar-collapse collapse">
+		          <ul class="nav navbar-nav navbar-right" >
 
+
+
+		            <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
+		            <li><a href="footer.php" target="_blank"><span>Why IIIC?</span></a></li>
+		            <li><a href="#" data-nav-section="testimonials"><span>Our Association</span></a></li>
+		            <li><a href="#" data-nav-section="services"><span>Events</span></a></li>
+		            <li><a href="#" data-nav-section="about"><span>Apply</span></a></li>
+								<li><a href="#" data-nav-section="about"><span>Product Dev</span></a></li>
+								<li><a href="#" data-nav-section="about"><span>Team</span></a></li>
+		            <li><a id="contact" href="contact.php" target="_blank" data-nav-section="contact" ><span>Contact us</span></a></li>
+		          </ul>
+		        </div>
+				
+			    </nav>
+				
+			  <!-- </div> -->
+		  </div>
+		  
+	</header>
+	
 
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
+	<script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script><script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script><script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script><script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script><script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script><script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script><script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script><script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script><script>document.getElementById("contact").onclick = function () {
+    location.href = "contact.php";
+};</script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
-	</head>
