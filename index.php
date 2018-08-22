@@ -4,7 +4,42 @@
   <?php require("header.php"); ?>
 
 	<body>
-	
+	<header role="banner" id="fh5co-header">
+		<img src="images/white_iiic.png" id="Main-logo" class="main-logo"style="position:absolute; top:0px; left:38px;">
+			<div class="container">
+				<!-- <div class="row"> -->
+			    <nav class="navbar navbar-default">
+		        <div class="navbar-header">
+		        	<!-- Mobile Toggle Menu Button -->
+					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+		            <span class="scroll-logo" > IIIC - IIITA</span>
+		        </div>
+		        <div id="navbar" class="navbar-collapse collapse">
+		          <ul class="nav navbar-nav navbar-right" >
+
+
+
+		            <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
+		            <li><a href="#" data-nav-section="work"><span>Why IIIC?</span></a></li>
+		            <li><a href="#" data-nav-section="testimonials"><span>Our Association</span></a></li>
+		            <li><a href="#" data-nav-section="services"><span>Events</span></a></li>
+		            <li><a href="#" data-nav-section="about"><span>Apply</span></a></li>
+								<li><a href="#" data-nav-section="about"><span>Product Dev</span></a></li>
+                <li>
+                  <a href="#" data-nav-section="about"><span>Team</span></a>
+                    <ul>
+                        <li><a href="#">Student team</a></li>
+                        <li><a href="#">Faculty team</a></li>
+                    </ul>
+                </li>
+		            <li><a href="#" data-nav-section="contact" ><span>Contact us</span></a></li>
+		          </ul>
+
+		        </div>
+			    </nav>
+			  <!-- </div> -->
+		  </div>
+	</header>
 	<section id="home" class="home-cover">
     <div class="cover_slider owl-carousel owl-theme">
         <div class="cover_item" style="background: url('assets/img/bg/iiita3.jpg');">
@@ -69,8 +104,8 @@
         </div>
     </div>
 </section>
-        
-        
+
+
         <div id="home">
 	<section id="fh5co-services" data-section="services" >
 		<div class="container">
@@ -99,12 +134,12 @@ We aim to create an entrepreneurial ecosystem and foster innovation across the c
 				</div>
 			</div>
         	</div>
-        
+
 	</section>
-            
+
         </div>
-        
-        
+
+
 
       	<section id="fh5co-intro">
 		<div class="container">
@@ -116,7 +151,7 @@ We aim to create an entrepreneurial ecosystem and foster innovation across the c
 						<i class="fh5co-intro-icon icon-bulb"></i>
 						<h2>Plan</h2>
 						<p>Incubating promising, innovative startups and aspiring entrepreneurs."Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim dolore magna aliqua"  </p>
-					
+
 					</div>
 				</div>
 				<div class="fh5co-block to-animate" style="background-image: url(images/img_8.jpg);">
@@ -126,7 +161,7 @@ We aim to create an entrepreneurial ecosystem and foster innovation across the c
 						<i class="fh5co-intro-icon icon-wrench"></i>
 						<h2>Develop</h2>
 						<p>Providing startups with apt skills, technology, legal advisory, chartered accountants and Intellectual Property Rights experts for their business.Equipping them with funding, infrastructure and other resources.</p>
-						
+
 					</div>
 				</div>
 				<div class="fh5co-block to-animate" style="background-image: url(images/img_10.jpg);">
@@ -136,17 +171,17 @@ We aim to create an entrepreneurial ecosystem and foster innovation across the c
 						<i class="fh5co-intro-icon icon-rocket"></i>
 						<h2>Launch</h2>
 						<p>Providing recruitment to the students of the Institute as interns and part time workers."Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					
+
 					</div>
 				</div>
-               
+
 			</div>
-            
-			
+
+
 		</div>
 	</section>
-        
-      
+
+
         <section id="fh5co-work" data-section="work">
 		<div class="container">
 			<div class="row">
@@ -159,12 +194,12 @@ We aim to create an entrepreneurial ecosystem and foster innovation across the c
 					</div>
 				</div>
 			</div>
-			
+
 
 
 			</div>
 		</div>
 	</section>
-    
-        
+
+
   <?php require("footer.php"); ?>
