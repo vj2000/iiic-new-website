@@ -1,5 +1,18 @@
 <!--footer start -->
-<footer>
+<style>
+
+footer .newsletter_form .form-control {
+    background-color: #1f1039;
+    border: solid 1px #fff;
+    font-weight: 500;
+    color: #ffffff;
+}
+footer {
+    padding: 50px 0 20px;
+    background-color: #0b031b;
+}
+</style>
+<footer style="background-color:#191919">
     <div class="container">
         <div class="row justify-content-center">
 
@@ -88,8 +101,8 @@
                     </div>
                     <div class="footer_box_body">
                         <div class="newsletter_form">
-                            <input type="email" class="form-control" placeholder="E-Mail here">
-                            <button class="btn btn-rounded btn-block btn-primary">SUBSCRIBE</button>
+                            <input style="background-color:#173457" type="email" class="form-control"  placeholder="E-Mail here">
+                            <button style="background-color:#02142A" class="btn btn-rounded btn-block btn-primary">SUBSCRIBE</button>
                         </div>
                     </div>
                 </div>
@@ -97,11 +110,11 @@
         </div>
     </div>
 </footer>
-<div class="copyright_footer">
+<div class="copyright_footer" style="background-color:#191919">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6 col-12">
-                <p>
+                <p style="align-content:center">
 &copy; IIITA Info Communication Incubation Center</p>
             </div>
         </div>

@@ -141,11 +141,10 @@
 						header.removeClass('navbar-fixed-top fh5co-animated slideInDown slideOutUp');
 					}, 100 );
 				}
-			}
-
+			} 
+			
 		});
 	};
-
 
 
 

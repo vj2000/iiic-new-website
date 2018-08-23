@@ -202,10 +202,10 @@
 		            <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
 		            <li><a href="footer.php" target="_blank"><span>Why IIIC?</span></a></li>
 		            <li><a href="#" data-nav-section="testimonials"><span>Our Association</span></a></li>
-		            <li><a href="#" data-nav-section="services"><span>Events</span></a></li>
-		            <li><a href="#" data-nav-section="about"><span>Apply</span></a></li>
-								<li><a href="#" data-nav-section="about"><span>Product Dev</span></a></li>
-								<li><a href="#" data-nav-section="about"><span>Team</span></a></li>
+		            <li><a id="events" href="events.php" data-nav-section="services"><span>Events</span></a></li>
+					<li><a id="apply" href="apply.php" data-nav-section="about"><span>Apply</span></a></li>
+					<li><a id="pd" href="product-dev.php" data-nav-section="about"><span>Product Dev</span></a></li>
+					<li><a id="stdteam" href="student_team.php" data-nav-section="about"><span>Team</span></a></li>
 		            <li><a id="contact" href="contact.php" target="_blank" data-nav-section="contact" ><span>Contact us</span></a></li>
 		          </ul>
 		        </div>
@@ -222,14 +222,18 @@
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	<script>document.getElementById("contact").onclick = function () {
     location.href = "contact.php";
-};</script><script>document.getElementById("contact").onclick = function () {
-    location.href = "contact.php";
-};</script><script>document.getElementById("contact").onclick = function () {
-    location.href = "contact.php";
-};</script><script>document.getElementById("contact").onclick = function () {
-    location.href = "contact.php";
-};</script><script>document.getElementById("contact").onclick = function () {
-    location.href = "contact.php";
+};</script>
+	<script>document.getElementById("stdteam").onclick = function () {
+    location.href = "student_team.php";
+};</script>
+	<script>document.getElementById("events").onclick = function () {
+    location.href = "events.php";
+};</script>
+	<script>document.getElementById("apply").onclick = function () {
+    location.href = "apply.php";
+};</script>
+	<script>document.getElementById("pd").onclick = function () {
+    location.href = "product-dev.php";
 };</script><script>document.getElementById("contact").onclick = function () {
     location.href = "contact.php";
 };</script><script>document.getElementById("contact").onclick = function () {
