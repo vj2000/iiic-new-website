@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Elate &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+	<title>IIIA INFO COMMUNICATION INCUBATION CENTRE</title>
 	<link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/et-line.css" rel="stylesheet">
     <link href="assets/css/ionicons.min.css" rel="stylesheet">
