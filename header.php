@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>IIIA INFO COMMUNICATION INCUBATION CENTRE</title>
+	<title>IIITA INFO COMMUNICATION INCUBATION CENTRE</title>
 	<link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/et-line.css" rel="stylesheet">
     <link href="assets/css/ionicons.min.css" rel="stylesheet">
