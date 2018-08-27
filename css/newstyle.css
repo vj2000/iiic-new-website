@@ -508,7 +508,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro .fh5co-block > .overlay-darker {
   z-index: 8;
   opacity: .5;
-  background: #474747;
+  background: #fff;
   position: absolute;
   left: 0;
   right: 0;
@@ -550,11 +550,19 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #fh5co-intro .fh5co-block:hover > .fh5co-text .fh5co-intro-icon, #fh5co-intro .fh5co-block:focus > .fh5co-text .fh5co-intro-icon {
+  color: #0088cc;
+}
+#fh5co-intro #fh5co-intro .fh5co-block:focus h2 {
   color: #fff;
 }
-#fh5co-intro .fh5co-block:hover h2, #fh5co-intro .fh5co-block:focus h2 {
-  color: #fff;
+.fh5co-block:hover h2{
+    color: #000000;
 }
+
+.fh5co-block:hover p{
+    color: #fff;
+}
+
 #fh5co-intro .fh5co-block:hover .btn, #fh5co-intro .fh5co-block:focus .btn {
   border: 2px solid #fff !important;
   background: transparent;
